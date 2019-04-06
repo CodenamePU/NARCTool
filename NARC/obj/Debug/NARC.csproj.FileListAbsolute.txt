@@ -1,0 +1,6 @@
+C:\Users\Platinum\source\repos\NARC\NARC\bin\Debug\NARC.dll
+C:\Users\Platinum\source\repos\NARC\NARC\bin\Debug\NARC.pdb
+C:\Users\Platinum\source\repos\NARC\NARC\obj\Debug\NARC.csproj.CoreCompileInputs.cache
+C:\Users\Platinum\source\repos\NARC\NARC\obj\Debug\NARC.dll
+C:\Users\Platinum\source\repos\NARC\NARC\obj\Debug\NARC.pdb
+C:\Users\Platinum\source\repos\NARC\NARC\obj\Debug\NARC.csprojAssemblyReference.cache
